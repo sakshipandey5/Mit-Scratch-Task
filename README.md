@@ -24,3 +24,5 @@
 
 ---
 ### 5. Link to Deployed App on vercel : https://mit-scratch-task-atoz-e4hkpt6am-sakshipandey5s-projects.vercel.app/
+
+### 6. Drive Link : https://drive.google.com/drive/folders/1hPSQc10vekIrACh1aRfVXWBaPZvHc97X
