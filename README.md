@@ -20,8 +20,7 @@
 ### 4. 🦸 Hero Feature – Collision-Based Animation Swap
 
 - 🔄 **Partially implemented**  
-  The collision detection between sprites is initiated, and logic to trigger animation changes upon collision is being integrated.
-
+  Partially Impelemented the "Hero feature".
 
 ---
 ### 5. Link to Deployed App on vercel : https://mit-scratch-task-atoz-e4hkpt6am-sakshipandey5s-projects.vercel.app/
