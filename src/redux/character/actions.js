@@ -1,4 +1,4 @@
-import { ADD_CHARACTER, SET_ACTIVE_CHARACTER, SET_ANGLE, SWAP_MIDAREA_LISTS } from "./actionTypes";
+import { ADD_CHARACTER, SET_ACTIVE_CHARACTER, SET_ANGLE } from "./actionTypes";
 import { SET_ACTIVE_SPRITE } from "./actionTypes";
 export const setCharacterAngle = (characterAngle) => {
   return {
@@ -28,7 +28,4 @@ export const setActiveSprite = (spriteId) => ({
 });
 
 
-export const swapMidAreaLists = (id1, id2) => ({
-  type: SWAP_MIDAREA_LISTS,
-  payload: { id1, id2 },
-});
+

@@ -3,4 +3,3 @@ export const ADD_CHARACTER = "ADD_CHARACTER";
 export const SET_ANGLE = "SET_ANGLE";
 
 export const SET_ACTIVE_SPRITE = "SET_ACTIVE_SPRITE";
-export const SWAP_MIDAREA_LISTS = "SWAP_MIDAREA_LISTS";
