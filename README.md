@@ -17,3 +17,4 @@
 - ✅ Animation per sprite: Each sprite can be animated independently using the motion and looks blocks.
 
 ---
+### 5. Link to Deployed App on vercel : https://mit-scratch-task-atoz-e4hkpt6am-sakshipandey5s-projects.vercel.app/
